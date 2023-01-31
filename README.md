@@ -6,6 +6,7 @@
 </h1>
 
 <h4 align="center">Teardown images of HP laptop 14dq0001dx</h4>
+<h5 align="center">I was going to turn this old laptop into a server anyways, so decided to take a look inside</h5>
 
 <p align="center">
   <a href="#top-view">Top View</a> •
