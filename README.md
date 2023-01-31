@@ -15,7 +15,7 @@
   <a href="#monitor-arms">Monitor Arms</a> •
   <a href="#removed-heatsink">Removed Heatsink</a> •
   <a href="#trackpad--keyboard">Trackpad & Keyboard</a> •
-  <a href="#ribbon-connections">Ribbon Connections</a>
+  <a href="#ribbon-connections">Ribbon Connections</a> •
   <a href="#walkthrough">Walkthrough</a>
 
 
@@ -48,6 +48,8 @@
 ![Trackpad & Keyboard](images/trackpad-keyboard.jpg)
 
 ## Ribbon Connections
+
+![Ribbon Connections](images/ribbon-connections.jpg)
 
 ## Walkthrough
 
