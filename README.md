@@ -11,9 +11,10 @@
   <a href="#top-view">Top View</a> •
   <a href="#top-view-labeled">Top View Labeled</a> •
   <a href="#monitor-cable">Monitor Cable</a> •
+  <a href="#monitor-arms">Monitor Arms</a> •
   <a href="#removed-heatsink">Removed Heatsink</a> •
   <a href="#trackpad--keyboard">Trackpad & Keyboard</a> •
-  <a href="#walkthrough">Walkthrough</a> •
+  <a href="#walkthrough">Walkthrough</a>
 
 
 </p>
@@ -29,6 +30,12 @@
 ## Monitor Cable
 
 ![Monitor Cable](images/monitor-cable.jpg)
+
+## Monitor Arms
+
+![Monitor Arm Left](images/monitor-arm-left.jpg)
+
+![Monitor Arm Right](images/monitor-arm-right.jpg)
 
 ## Removed Heatsink
 
@@ -47,3 +54,5 @@ This is not the definite way to tear down this laptop; it's just the route I too
 - [ ] Remove the heat sink
 - [ ] Unplug the ribbon cable connecting the SD Reader and Power button sister board from the motherboard
 - [ ] Unplug the two cables from the wireless adapter card
+- [ ] To detach the monitor screen from the rest of the laptop, unscrew the arms in both corners and unplug the monitor ribbon cable (make sure the adapter card is also unplugged since the antennas are located in the screen)
+- [ ] The ribbon cables for the trackpad and keyboard are hidden underneath the battery
