@@ -43,3 +43,7 @@
 This is not the definite way to tear down this laptop; it's just the route I took for the purposes I need it.
 
 - [ ] Remove the battery by unscrewing it
+- [ ] Discharge any capicitors by holding the on button for at least 5 seconds
+- [ ] Remove the heat sink
+- [ ] Unplug the ribbon cable connecting the SD Reader and Power button sister board from the motherboard
+- [ ] Unplug the two cables from the wireless adapter card
