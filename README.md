@@ -49,7 +49,7 @@
 
 ## Ribbon Connections
 
-![Ribbon Connections](images/ribbon-connections.jpg)
+![Ribbon Connections](images/connections-1.jpg)
 
 ## Walkthrough
 
