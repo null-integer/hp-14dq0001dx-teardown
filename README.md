@@ -39,3 +39,5 @@
 ![Trackpad & Keyboard](images/trackpad-keyboard.jpg)
 
 ## Walkthrough
+
+This is not the definite way to tear down this laptop; it's just the route I took for the purposes I need it.
