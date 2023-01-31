@@ -13,7 +13,7 @@
   <a href="#monitor-cable">Monitor Cable</a> •
   <a href="#removed-heatsink">Removed Heatsink</a> •
   <a href="#trackpad--keyboard">Trackpad & Keyboard</a> •
-
+  <a href="#walkthrough">Walkthrough</a> •
 
 
 </p>
@@ -37,3 +37,5 @@
 ## Trackpad & Keyboard
 
 ![Trackpad & Keyboard](images/trackpad-keyboard.jpg)
+
+## walkthrough
