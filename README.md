@@ -38,4 +38,4 @@
 
 ![Trackpad & Keyboard](images/trackpad-keyboard.jpg)
 
-## walkthrough
+## Walkthrough
