@@ -12,7 +12,7 @@
   <a href="#top-view-labeled">Top View Labeled</a> •
   <a href="#monitor-cable">Monitor Cable</a> •
   <a href="#removed-heatsink">Removed Heatsink</a> •
-  <a href="#trackpad&keyboard">Trackpad & Keyboard</a> •
+  <a href="#trackpad-&-keyboard">Trackpad & Keyboard</a> •
 
 
 
