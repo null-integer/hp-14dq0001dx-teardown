@@ -42,4 +42,4 @@
 
 This is not the definite way to tear down this laptop; it's just the route I took for the purposes I need it.
 
-- [x] Remove the battery by unscrewing it
+- [ ] Remove the battery by unscrewing it
